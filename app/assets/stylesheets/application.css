@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+#funfact{
+	color:red;
+	font-weight: bold;
+}
+#excited{
+	color:blue;
+	text-decoration: underline;
+}
+#from{
+	background: green;
+	color: white;
+}
